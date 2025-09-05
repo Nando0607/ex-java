@@ -41,3 +41,28 @@
 
 //* Nivel Basico = 5*//
 
+// let Numero = parseInt(prompt("Digite sua idade: "))
+//  if(Numero >= 1 && Numero <=12){
+//     console.log("Voçe é Criança")
+//  }else if (Numero >=13 && Numero <= 17){
+//     console.log("Voçe é adolecente")
+// }else if (Numero >= 18){
+//     console.log("Voçe é adulto")
+// }else{
+//      console.log("Numero inválido")
+//  }
+
+//* Nivel Basico = 6*//
+
+// let numero = parseInt(prompt("Digite um número: "))
+
+// if(numero %2 == 0){
+//     console.log("Número par")
+// }else{
+//     console.log("Número impar");
+// }
+
+
+//*Nivel intermediário*//
+
+let
