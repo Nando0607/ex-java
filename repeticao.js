@@ -41,3 +41,4 @@
 for(let i = 0 ; i < numeros.length; i++){
     console.log("Auxiliar: " + numeros[i])
 }
+//*continuação do código
